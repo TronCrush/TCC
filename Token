@@ -10,7 +10,7 @@ contract TronCrushCoin
     bool public canBurn;
     bool public canApproveCall;
     uint8 public decimals = 6;
-    uint256 public totalSupply = 100000000 * (10 ** uint256(decimals));
+    uint256 public totalSupply = 90000000 * (10 ** uint256(decimals));
     string public name = "TronCrushCoin";
     string public symbol = "TCC";
 
